@@ -3,7 +3,7 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 30%;"
+           width: 50%;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/512px-LoRaWAN_Logo.svg.png?20220113153343">
 
 
