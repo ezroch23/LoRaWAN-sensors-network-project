@@ -1,4 +1,13 @@
-<img alt="File:LoRaWAN Logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/512px-LoRaWAN_Logo.svg.png?20220113153343" decoding="async" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/768px-LoRaWAN_Logo.svg.png?20220113153343 width="310" height="100">
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 30%;"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/512px-LoRaWAN_Logo.svg.png?20220113153343"
+ 
+</img>
+
 
 # Wireless network sensor with LoRaWAN
 
