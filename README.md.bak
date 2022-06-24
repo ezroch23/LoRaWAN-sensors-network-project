@@ -14,7 +14,6 @@ This project proposes to monitor environmental parameters in the classrooms of t
 * Microcontroller: Particle Photon
 * Light Sensor: Adafruit TSL2560
 * Temperature and Humidity sensor: DHT22
-*
 
 
 ## LoRa Panama

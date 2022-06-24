@@ -1,3 +1,5 @@
+<img alt="File:LoRaWAN Logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/512px-LoRaWAN_Logo.svg.png?20220113153343" decoding="async" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/768px-LoRaWAN_Logo.svg.png?20220113153343 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/1024px-LoRaWAN_Logo.svg.png?20220113153343 2x" data-file-width="512" data-file-height="165" width="512" height="165">
+
 # Wireless network sensor with LoRaWAN
 
 Wireless network sensor for environment parameters monitoring at the Universidad Tecnologica de Panama using LoRaWAN technology
