@@ -4,9 +4,8 @@
            margin-left: auto;
            margin-right: auto;
            width: 30%;"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/512px-LoRaWAN_Logo.svg.png?20220113153343"
- 
-</img>
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/512px-LoRaWAN_Logo.svg.png?20220113153343">
+
 
 
 # Wireless network sensor with LoRaWAN
