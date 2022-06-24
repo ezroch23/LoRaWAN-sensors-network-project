@@ -3,7 +3,7 @@
     style="display: block; 
            margin-left: auto;
            margin-right: auto;
-           width: 50%;"
+           width: 20%;"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/LoRaWAN_Logo.svg/512px-LoRaWAN_Logo.svg.png?20220113153343">
 
 
@@ -27,6 +27,14 @@ This project proposes to monitor environmental parameters in the classrooms of t
 
 
 ## LoRa Panama
+
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 10%;"
+    src="http://lora-panama.com/wp-content/uploads/2020/08/lora-panama-logo_reduc.png">
+
 
 A page to find more info about LoRa 
 
